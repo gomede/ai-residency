@@ -102,3 +102,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌍 Acknowledgments
 
 Special thanks to the open-source community, research labs, and all AI residents contributing to advancing the frontiers of artificial intelligence.
+
+## First Meet
+
+https://drive.google.com/file/d/1OIz_zKWrnzp0MtlItblStXW054C_u6cb/view?usp=sharing
