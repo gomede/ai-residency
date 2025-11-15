@@ -107,6 +107,8 @@ Special thanks to the open-source community, research labs, and all AI residents
 
 https://colab.research.google.com/drive/1ArwgSXAUTjCSP19pO0C1t9bBhWbHOagh?usp=sharing
 
-## First Meet
+## Perceptron 
 
 https://drive.google.com/file/d/1OIz_zKWrnzp0MtlItblStXW054C_u6cb/view?usp=sharing
+
+https://drive.google.com/file/d/1Up-pww0SPEpbqnhjvmxofZVUufo6GmBw/view?usp=sharing
