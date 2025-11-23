@@ -112,3 +112,8 @@ https://colab.research.google.com/drive/1ArwgSXAUTjCSP19pO0C1t9bBhWbHOagh?usp=sh
 https://drive.google.com/file/d/1OIz_zKWrnzp0MtlItblStXW054C_u6cb/view?usp=sharing
 
 https://drive.google.com/file/d/1Up-pww0SPEpbqnhjvmxofZVUufo6GmBw/view?usp=sharing
+
+## Multi Layer Perceptron 
+
+https://drive.google.com/file/d/1LEaXMgZmQKM-03mkrtIo1llbxKDPkbur/view?usp=sharing
+
